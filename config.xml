@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.dmmmsu-sluc.ccs"
         versionCode = "379"
-        version   = "1.6.1">
+        version   = "2">
     <name>MyCCS Mobile</name>
 
     <description>
